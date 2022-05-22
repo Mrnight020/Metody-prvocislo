@@ -1,0 +1,10 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\bin\Debug\Prvocislo.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\bin\Debug\Prvocislo.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\bin\Debug\Prvocislo.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\Prvocislo\Prvocislo\obj\Debug\Prvocislo.pdb
